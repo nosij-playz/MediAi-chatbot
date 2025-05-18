@@ -1,0 +1,26 @@
+{
+    "positive_responses": [
+        "yes", "yeah", "yep", "yup", "sure", "absolutely", "probably", "suffering", "feeling", 
+        "i felt it", "of course", "affirmative", "correct", "right", "okay", "ok", "definitely", 
+        "indeed", "certainly", "true", "i do", "that's right", "y", "1", "i was suffering", 
+        "i experienced it", "i had it", "i got it", "i am having it", "yes i was", 
+        "yes i was suffering", "sure thing", "you bet", "totally", "for sure", "without a doubt",
+        "i am sure", "absolutely yes", "most certainly", "yeah, definitely", "positively",
+        "confirmed", "i am experiencing it", "yes, i did", "yass", "right on", "yup, i did"
+    ],
+    "negative_responses": [
+        "no", "nope", "nah", "never", "negative", "not at all", "false", "i don't", "wrong", "n", "0", 
+        "i wasn't suffering", "i am not experiencing it", "i didn’t get it", "not suffered", 
+        "i did not suffer", "i was not suffering from it", "not really", "no way", "absolutely not",
+        "definitely not", "no chance", "not in the slightest", "not happening", "no sir", 
+        "no ma'am", "not even close", "not a bit", "nah, not me", "i'm fine", "no symptoms",
+        "never had it", "didn't feel it", "not feeling it", "no, not at all"
+    ],
+    "uncertain_responses": [
+        "maybe", "i dont know", "i don't know", "not sure", "i think so", "i guess", "can't say", 
+        "not sure if i had it", "i am uncertain", "it’s unclear", "idk", "possibly", "i'm not sure", 
+        "hard to tell", "could be", "not 100% sure", "it’s a bit fuzzy", "unsure", 
+        "i have doubts", "somewhat", "not entirely sure", "i suppose", "it’s a maybe", 
+        "could have been", "can't confirm", "kind of", "50/50", "i might have"
+    ]
+}
