@@ -85,9 +85,13 @@ You can view the full project report here:
 
 ## 📷 Screenshots
 
-> _(You can insert screenshots of the chatbot interface here for better presentation.)_
+![Terminal Based](report/pics/1.png)
 
----
+![Symptom Input](report/pics/2.png)
+
+![Diagnosis Result](report/pics/3.png)
+
+![Q&A Chat](report/pics/4.png)
 
 ## 📚 References
 
