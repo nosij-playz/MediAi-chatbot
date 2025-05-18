@@ -98,20 +98,7 @@ You can view the full project report here:
 - [3] *Disease Prediction System Using Machine Learning Approaches*, IEEE ICAECT 2024  
 - [4] *AI Chatbot for Answering FAQs*, IEEE SeFeT 2022
 
----
 
-## 🙌 Team
-
-Developed as a Mini Project by:
-
-- Jison Joseph Sebastian (VML22CS101)  
-- Sarang K A (VML22CS157)  
-- Aravind S Dev (VML22CS053)  
-- Richard Tom Jose (VML22CS148)
-
-Under the guidance of **Mr. Rijin I.K**, Assistant Professor  
-**Department of Computer Science and Engineering**  
-Vimal Jyothi Engineering College, Chemperi, Kerala
 
 ---
 
