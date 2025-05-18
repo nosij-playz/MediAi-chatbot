@@ -81,7 +81,7 @@ http://127.0.0.1:5000
 ## 📄 Project Report
 
 You can view the full project report here:  
-👉 [**Click to View Report**](sandbox:/mnt/data/group6report.pdf)
+👉 [**Click to View Report**](report/MediAi report.pdf)
 
 ---
 
